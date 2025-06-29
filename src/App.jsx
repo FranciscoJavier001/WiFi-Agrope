@@ -15,7 +15,7 @@ function App() {
         <button className="btn red" onClick={() => sendMessage('Cancelar Servicio')}>Cancelar Servicio</button>
         <div className="footer">
           <button className="btn black" onClick={() => sendMessage('Soporte')}>Soporte</button>
-        </div>
+      </div>
       </div>
     </div>
   );

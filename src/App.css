@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-direction: column;
-  height: 80vh;
+  height: 90vh;
   justify-content: space-between;
 }
 
@@ -13,7 +13,7 @@ h1 {
 .button-container {
   display: flex;
   flex-direction: column;
-  gap: 37px;
+  gap: 50px;
   padding: 0 15px;
 }
 
