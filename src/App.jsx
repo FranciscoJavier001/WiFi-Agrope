@@ -13,9 +13,9 @@ function App() {
         <button className="btn green" onClick={() => sendMessage('Agregar Servicio')}>Agregar Servicio</button>
         <button className="btn yellow" onClick={() => sendMessage('Reportar Fallas en el Servicio')}>Reportar Fallas en el Servicio</button>
         <button className="btn red" onClick={() => sendMessage('Cancelar Servicio')}>Cancelar Servicio</button>
-      </div>
-      <div className="footer">
-        <button className="btn black" onClick={() => sendMessage('Soporte')}>Soporte</button>
+        <div className="footer">
+          <button className="btn black" onClick={() => sendMessage('Soporte')}>Soporte</button>
+        </div>
       </div>
     </div>
   );
