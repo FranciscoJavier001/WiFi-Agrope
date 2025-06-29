@@ -13,7 +13,7 @@ h1 {
 .button-container {
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 37px;
   padding: 0 15px;
 }
 
